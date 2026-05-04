@@ -14,5 +14,9 @@
   "type": "module",
   "workspaces": [
     "src/opend_frontend"
-  ]
+  ],
+  "dependencies": {
+    "react-hook-form": "^7.69.0",
+    "react-router-dom": "^5.3.4"
+  }
 }
